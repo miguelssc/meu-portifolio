@@ -1,0 +1,56 @@
+.cabeçalho{
+    display: flex;
+  justify-content: space-between;
+    height: 50px;
+    font-size: 16px;
+    font-weight: bold;
+    color: black;
+    }
+    img{
+        display: flex;
+        justify-content: left;
+        height: 50px;
+        width: 50px;
+        border: 0px solid;
+        border-radius: 100px;
+    }
+    .conteudo{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        height: 500px;
+    }
+    #foto2{
+        height: 250px;
+        width: 250px;
+        margin-top: 50px;
+        border-radius: 50%;
+    }
+
+    .rodape{
+        background-color: bisque;
+        display: flex;
+        justify-content: center;
+        height: 100px;
+        align-items: center;
+    }
+    
+    #nav1 {
+        background-color: brown;
+        height: 500px;
+        width: 300px;
+        align-items: center;
+    }
+    #nav2{
+        background-color: mediumaquamarine;
+        height: 500px;
+        width: 300px;
+        align-items: center;
+    }
+    #nav3{
+        background-color: coral;
+        height: 500px;
+        width: 300px;
+        align-items: center;
+    }
+   
